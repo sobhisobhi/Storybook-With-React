@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Header } from './components/Header/Header';
+import { Header } from './components';
 import { Element } from './Element';
 import formJSON from './formElement.json';
 import { FormContext } from './FormContext';

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Input } from './components/Input/Input';
+import { Input } from './components';
 
 export const Element = ({ field: { field_type, field_id, field_label, field_placeholder, field_value, field_options } }) => {
 
